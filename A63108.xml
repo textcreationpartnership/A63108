@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Treatise of peace concluded the 29 of September, 1642, being Michaelmas Day, that all forces assembled together in any part of Yorkshire ... shall be disbanded, and all those under Captain Hotham now in Doncaster, and all other forces in any other parts of the countrey under any other commanders belonging to the garrison of Hull, shall retire to Hull with all speed possibly, and that Captaine Hotham shall begin to march from Doncaster towards Hull upon Saturday next, the first of October, 1642 : here is also the true copy of a letter sent from Prince Rupert to to [sic] His Majestie from Bobsford, September the 24, 1642 ... : likewise the copy of another letter sent from a gentleman of Yorkshire, containing many speciall and remarkable passages of what strength of men, horse, and ordinance there is in that countie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63108</idno>
+            <idno type="STC">Wing T2100</idno>
+            <idno type="STC">ESTC R25659</idno>
+            <idno type="EEBO-CITATION">09053977</idno>
+            <idno type="OCLC">ocm 09053977</idno>
+            <idno type="VID">42344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1296:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Treatise of peace concluded the 29 of September, 1642, being Michaelmas Day, that all forces assembled together in any part of Yorkshire ... shall be disbanded, and all those under Captain Hotham now in Doncaster, and all other forces in any other parts of the countrey under any other commanders belonging to the garrison of Hull, shall retire to Hull with all speed possibly, and that Captaine Hotham shall begin to march from Doncaster towards Hull upon Saturday next, the first of October, 1642 : here is also the true copy of a letter sent from Prince Rupert to to [sic] His Majestie from Bobsford, September the 24, 1642 ... : likewise the copy of another letter sent from a gentleman of Yorkshire, containing many speciall and remarkable passages of what strength of men, horse, and ordinance there is in that countie.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Benson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Yorkshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42344:1"/>
+            <pb facs="tcp:42344:1"/>
+            <p>A TREATIE OF PEACE, Concluded The 29. of <hi>September,</hi> 1642. being <hi>Michaelmas</hi> day, That all Forces aſſembled together in any part of Yorkſhire, Countie, or Citie of Yorke, ſhall be disbanded, and all thoſe under Captaine Hotham now in Doncaſter, and all other forces in any other parts of the Countrey, under a<g ref="char:EOLhyphen"/>ny other Commanders belonging to the Garriſon of Hull, ſhall retire to Hull with all ſpeed poſſibly, and that Captaine Hotham ſhall begin to march from Doncaſter towards Hull, upon Saturday next, the firſt of October, 1642.</p>
+            <p>Here is alſo the True Copy of a Letter ſent from Prince Rupert to to his Majeſtie from Bobford; September the 24. 1642. Printed at Yorke by ſpeciall command, and reprinted at London.</p>
+            <p>Likewiſe the Copy of another Letter ſent from a Gentleman of Yorkſhire, con<g ref="char:EOLhyphen"/>taining many ſpeciall and remarkable paſſages of what ſtrength of men, Horſe and Ordinance, there is in that Countie.</p>
+            <p>London, Printed for <hi>I. Benſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="peace_treaty">
+            <pb facs="tcp:42344:2"/>
+            <pb facs="tcp:42344:2"/>
+            <head>The copy of the Treaty of peace for YORK-SHIRE.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt it is agreed at a treaty concluded this pre<g ref="char:EOLhyphen"/>ſent 29. of September being Michaelmas day that all forces aſſembled together in any part of Yorkſhire or Countie or Citie of Yorke ſhall be disbanded, and all thoſe under the command of Captaine Hotham, now in Doncaſter, and all other forces in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny other part of the Countrey under any other com<g ref="char:EOLhyphen"/>manders belonging to the garriſon of Hull, ſhall retire to Hull with all ſpeed poſſible, and the ſaid captaine Hotham ſhall begin to march from Doncaſter to<g ref="char:EOLhyphen"/>wards Hull, upon Satterday next.</p>
+            <p n="2">2 It is agreed that no hoſtile or violent act ſhall hereafter be done to the garriſon of Hull, either directly or indirectly, by pretence of any aide or aſ<g ref="char:EOLhyphen"/>ſiſtance whatſoever, upon the perſon of any man within the countie of York, or within the countie or citie of Yorke nor upon the goods, dither in the countie aforeſaid, or in the countie of Kingſtone upon Hull.</p>
+            <p n="3">3 It is agreed that the commiſſioners or Array and orders and ordinances, of Parliament for the Militia be wholly ſuſpended in this countie, untill ſuch time as ſome courſe be agreed pon, for the ordering of the Militia by the King and Parliament, and this without diſputing either the legalitie or illegalitie of either, as finding neither ſo neceſſary at this time, as for the ſet<g ref="char:EOLhyphen"/>ting them a foot to involve this great countie in blood.</p>
+            <p n="4">4 It is agreed, that no commiſſioners be impoſed upon this countie, but ſuch as are legall and preſidented in good times.</p>
+            <p n="5">5 It is agreed that no army or forces whatſoever ſhall be ſuffered to enter this countie in hoſtile manner by vertue of any pretence or command
+<pb facs="tcp:42344:3"/>
+whatſoever, and they who ſhall attempt to doe it, the whole countie ſhall riſe againſt them with force as enemies againſt the peace, and to be ſuppreſt</p>
+            <p n="6">6 It is agreed, that if any carriages for the houſhold either of the King or Queene be to paſſe this countie, that to prevent all other armed forces under pretence of ſuch a conduct to come amongſt us, wee ſhall take order to ſee them quietly conducted by the ſheriffe of the countie, with ſuch a convoy as he ſhall appoint and we like, and with no other, and if it shall happen the Queenes Majeſtie shall returne out of Holland thorow this countie; that we shall humbly beſeech her Majeſtie to forbeare the bringing with her any multitude of armed forces, but to believe that we shall wait upon her Majeſtie with ſuch an honourable ſafe convoy, as shall befit our dutie and her honour.</p>
+            <p n="7">7 It is agree that if any warlike proviſion bee deſired to bee paſſed this countie for his Majeſties ſervice, that we shall humbly petition his Maje<g ref="char:EOLhyphen"/>ſtie that he would be pleaſed to convey them ſome other way, being it may be occaſioned to interrupt our peace.</p>
+            <p n="8">8 It is agreed that none shall be arreſted in this countie as delinquents to either partie, but by a legall peacable and quiet way; that is by the legall officers and their aſſiſtants only, and not by armed men and ſouldiers, who may be an occaſion to bring fire amongſt us.</p>
+            <p n="9">9 It is agreed that whomſoever in this Countie can be made appeare ei<g ref="char:EOLhyphen"/>ther to be the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uthor contriver or aſſiſting to the burning or pillaging of ſir Edward Roods his houſe or any other mans in this countie, we ſhall all ſee them if they be able make reſtitution, and howſoever to be brought to Iuſtice.</p>
+            <p n="10">10 It is agreed that a generall amneſtia be made betweene all the Gen<g ref="char:EOLhyphen"/>tlemen and others of this countie, of all former unkindneſſes and differen<g ref="char:EOLhyphen"/>ces which have beene bred by theſe diſtractions, and that we hereafter will be as one man, to defend one another according to the law againſt all o<g ref="char:EOLhyphen"/>thers, l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aving all others to be punished by the law of the land, and not by force and violence.</p>
+            <p n="11">11 It is agreed that it is intended by disbanding the Armies that his Majeſtie shall have libertie for removing of all ſuch his canons and muniti<g ref="char:EOLhyphen"/>on as he hath now in this countie.</p>
+            <p n="10">10 It is agreed that all the armes which doe belong to any of the trai<g ref="char:EOLhyphen"/>ned bands of this countie which have beene taken from them ſince the 21, September inſtant by either part, shall be preſently reſtored, and that ca<g ref="char:EOLhyphen"/>pt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine Hotham shall leave behinde him when he returnes into Hull all thoſe braſſe pieces belonging to his Majeſtie which hee hath of his, which are now in Doncaſter excepting ſuch as he himſelfe from Hull.</p>
+            <p n="13">
+               <pb facs="tcp:42344:3"/>13. It is agreed that no further forces during this difference betweene King and Parliament be either Razed in, or payd by this County for this Warre order then ſuch as are already levied, and really raſed, and all ſuch <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o goe out of the Country without raſeing any more.</p>
+            <p n="14">14. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is agreed that a humble Remonſtrance and declaration of theſe re<g ref="char:EOLhyphen"/>ſolutions bee preſently ſent both to the King and Parliament, accompanied an humble Petition from us all, that according as we have ſo unanimouſly a<g ref="char:EOLhyphen"/>greed for our particular peace, ſo they would bee pleaſed to commiſerate this diſtracted Kingdome to doe the ſame, for the generall peace of the whole,</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Henry Bellaſſe</item>
+                     <item>William Savile</item>
+                     <item>Edward Oſburne</item>
+                     <item>Iohn Ramſdon</item>
+                     <item>Iugram Hopton</item>
+                     <item>Francis Nevill</item>
+                     <item>Tho<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> Fairefax</item>
+                     <item>Thomas Mayleverey</item>
+                     <item>William Lister</item>
+                     <item>VVilliam VVhite</item>
+                     <item>Iohn Ferrey</item>
+                     <item>Thomus Stockdayle.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A true Coppie of a Letter ſent by Prince <hi>Rupert</hi> to His MAIESTIE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe bearer will with all the Circumſtances tell Your Majeſty our Proceedings at <hi>Worceſter.</hi> I ſhall onely ſay this, That upon Your Majeſties commands to ſuccour the Towne, we went thither with our Forces and found the Rebels on both ſides of the Towne, no Ammunition, nor nothing fitting to entertaine ſo great a Force as the Lord of <hi>Eſſex</hi> would have brought that night. But all things in ſo great a diſor<g ref="char:EOLhyphen"/>der, that certainely we had all beene loſt, had wee not by a great chance met with tenne Troopes of their Horſe, and five of their Dragoners, which we did entirely rout, and kill'd moſt of their chiefeſt Officers. The Manner and the Names, I leave for the ſaid bearer to tell you. Your Majeſty will bee pleaſed to accept this, as a beginning of Your Officers and my Duty; and I doubt not, as (certainely) they behaved themſelves all very bravely and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<g ref="char:EOLhyphen"/>lantly, that hereafter Your Majeſty ſhall finde the ſame behaviour againſt a
+<pb facs="tcp:42344:4"/>
+more conſiderable number. Of this Your Majeſty may be very confident, as alſo of the endeavours of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Majeſties moſt Obedient Nephew, and humble Servant. R<g ref="char:V">Ʋ</g>PERT.</signed>
+               <dateline>From <hi>Bobſort</hi> 
+                  <date>this 24. of <hi>Sep.</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Sir, <hi>This Gentleman hath behaved himſelfe ſo gallantly, That I muſt needs humbly deſire Your Majeſty to Knight him; which will encourage him and all others to continue the Affection for Your ſer<g ref="char:EOLhyphen"/>vice.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>The Circumſtances Related by Maſter <hi>Crane,</hi> who is Knighted. He is (I heare) <hi>Prince</hi> Ruports <hi>Cornet.</hi>
+            </head>
+            <p>THat at the firſt Charge, Prince <hi>Rupert,</hi> Prince <hi>Maurice,</hi> Maſter <hi>Foxe,</hi> and two more, charged and defeated a Troop, whom they knew not to be enemies, till they were upon them, by their Orange colour Skarfes.</p>
+            <p>That ſeven Cornets are taken, ſome I ſaw.</p>
+            <p>That ſeverall Officers are kild on their ſide, particularly, <hi>Douglas</hi> and <hi>San<g ref="char:EOLhyphen"/>dis;</hi> that the laſt repented before his death, for having borne Armes againſt the King.</p>
+            <p>That ſeverall men are taken, as Captaine <hi>Wingat</hi> of the Houſe of Com<g ref="char:EOLhyphen"/>mons, and others. That we have but three kild in all.</p>
+            <p>That but three of ours of quality have been hurt; Maſter <hi>Wilmott</hi> in the backe, and the worſt of any: but yet hee Marches in a Coach and is merry. Sir <hi>Lewis Dives</hi> through the Shoulder. Maſter <hi>Biron</hi> (a brother of Sir <hi>Iohns</hi>) over the face. I heare he hath ſaid, That Prince <hi>Maurice</hi> is a little hurt, but I underſtood him but thoſe three.</p>
+            <p>That <hi>Browne,</hi> who commanded in chiefe as Colonell of Dragoners, was one of the firſt that ranne away.</p>
+            <p>
+               <pb facs="tcp:42344:4"/>That our Men are very hearty with their Victory, and the ſpoiles of the kill'd (as Horſes, Armes, Buffe-coates, Mony in their Pockets) and the ene<g ref="char:EOLhyphen"/>my (as they heare) much diſhartened, and not likely to make ſo great haſte from about Worceſter as they meant.</p>
+            <list>
+               <head>The <hi>CORNETS</hi> Mottoes.</head>
+               <item>Pro Rege &amp; Regno.</item>
+               <item>Exurgat &amp; Diſcipabuntur.</item>
+               <item>Pro Raege &amp; Religione.</item>
+               <item>Si pro Patria Morior non Moror.</item>
+            </list>
+            <p>The reſt ſo to<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, the Mottoes could not be read.</p>
+         </div>
+         <div type="report">
+            <head>Newes from Yorkeſhire.</head>
+            <p>CAptaine Hotham, Sir Iohn Hothams Son having fallyed out of Hull with 600. men lyes now at Doncaſter, and intercepts all Letters up<g ref="char:EOLhyphen"/>on Monday laſt, <hi>Septem.</hi> 26. My Lord Faireſay came to Leedge and brought with him 100. men to ſettle the Militia, Sir Iohn Savile came with 100. Men more to his aide, but the Commiſſioners for the Commiſſion of Array ſent out of Pontefract, whereby they lay, two troopes of Horſe, who met Sir Iohn Savile at Loft-houſe kilde, one man hurt, ſixe tooke 18. horſes, and ſome priſoners, Sir Iohn being one, and all their Armes, all which were carryed to Pontefract Caſtle, and were there kept untill yeſterday, in Levie of which priſoners they tooke my ſelfe and 6. other Gentlemen priſoners and kept us priſoners foure houres, the ſame day Monday for the prevention of bloud-ſhed, there was a Treaty of peace, a coppy of which I have ſent you by Sir Iohn Ingram Hopton, Maſter Francis Nevile, <hi>pro Rege</hi> and my Lord Fairefax, Maſter Stockdale, and Maſter Farres, <hi>pro Parl.</hi> it was concluded that ſixe of each ſide ſhould meete at Rothwell on Thurſday the 29. of this inſtant <hi>Septem.</hi> and did conclude a peace, God of his mercy grant it through this whole kingdome,</p>
+            <closer>
+               <signed>Yours <hi>N. N.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <pb facs="tcp:42344:5" rendition="simple:additions"/>
+               <head>Poſt-ſcript.</head>
+               <p>There are at Pontfract 800. Horſe 13. peeces of Ordnance 4000. foot ready to March if occaſion be. Here is at Knareſbrough 100. Dragoners 800 foote at Sheffeild 500. foote all which are to bee disbanded, for I am infor<g ref="char:EOLhyphen"/>med he marched homewards laſt night 5. miles onward on his way,</p>
+               <closer>
+                  <signed>Your Friend to uſe.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42344:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
